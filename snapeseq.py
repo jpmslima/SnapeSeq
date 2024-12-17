@@ -2,7 +2,7 @@ import streamlit as st
 from Bio import SeqIO
 import os
 
-st.title("SeverusSnapSequences")
+st.title("Severus Snap(e) Sequences")
 st.write("Upload a multifasta file and search for a sequence by its complete or partial name.")
 
 # Upload the multifasta file:
